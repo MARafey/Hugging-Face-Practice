@@ -64,3 +64,4 @@ print(result)
 ## Acknowledgments
 
 - Hugging Face Transformers Library: https://huggingface.co/transformers/
+- Medium Article : https://medium.com/@m.a.rafey1215/harnessing-hugging-face-transformers-powerful-tools-for-easy-machine-learning-a7404ae2f07b?source=user_profile---------0----------------------------
